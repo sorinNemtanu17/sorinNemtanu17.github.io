@@ -28,7 +28,7 @@ aside {
   z-index: 100;
 }
 aside div.menuImage {
-  background: url("../img/IMG_2947.JPG")center no-repeat;
+  background: url("../img/1.jpg")center no-repeat;
   background-size: cover;
   width: 10em;
   height: 10em;
@@ -122,7 +122,7 @@ aside .contact i {
   }
 }
 header {
-  background: url("../img/IMG_1558 optimize.jpg")center no-repeat;
+  background: url("../img/2.jpg")center no-repeat;
   background-size: cover;
   height:100%;
   min-width: 600px;
