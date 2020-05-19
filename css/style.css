@@ -32,6 +32,7 @@ aside {
 }
 aside div.menuImage {
   background: url("../img/Optimized-IMG_2947.JPG")center no-repeat;
+  filter: grayscale(100%);
   background-size: cover;
   width: 10em;
   height: 10em;
