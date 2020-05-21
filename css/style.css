@@ -231,7 +231,7 @@ section  h4 {
 }
 
 section .about, section .courses, section .workHistory {
-  background-color: rgb(236, 240, 241);
+  background-color: rgb(255, 255, 255);
 }
 section h3 span {
   color: rgb(153, 153, 153);
